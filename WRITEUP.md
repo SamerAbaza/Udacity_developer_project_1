@@ -37,7 +37,7 @@ But:
 #Choice:
 I have chosen App service to deploy the image for my application 
 where the deployed application is considered to be light with no requirements of high performance
-and free tier is selected to remove extra payments required for test environment.
+and free tier is selected to remove extra payments required for test environment with no future scaling plans.
 
 ### Assess app changes that would change your decision.
 
